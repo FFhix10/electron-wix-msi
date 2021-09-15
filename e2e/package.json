@@ -34,7 +34,7 @@
     "typescript": "^3.7.5",
     "expect.js": "^0.3.1",
     "hasha": "^5.2.0",
-    "mocha": "^7.0.1",
+    "mocha": "^8.3.0",
     "node-powershell": "^4.0.0",
     "ps-list": "^7.0.0",
     "spawn-rx": "^3.0.0",
