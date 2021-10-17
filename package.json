@@ -23,7 +23,7 @@
     "harness": "npm run build && node ./harness/harness.js"
   },
   "dependencies": {
-    "debug": "^4.1.1",
+    "debug": "^4.3.1",
     "fs-extra": "^8.1.0",
     "klaw": "^3.0.0",
     "lodash": "^4.17.15",
